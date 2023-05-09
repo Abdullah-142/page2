@@ -1,0 +1,16 @@
+/** @format */
+
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.bg-shape {
+   background-color: #5c6cc2;
+}
+.bg {
+   background-image: url("imgs/wave\ \(1\).svg");
+   height: 50vh;
+   background-repeat: no-repeat;
+}
